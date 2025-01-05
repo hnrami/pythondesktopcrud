@@ -2,11 +2,7 @@
 python CRUD with SQL Lite
 
 
-![Screenshot (3)](https://github.com/user-attachments/assets/84cf1cbb-28d5-4190-a198-af6436594c8e)
 
-
-
-![Screenshot (4)](https://github.com/user-attachments/assets/179558c2-c4e0-4a75-ad5e-32c9f35954d6)
 
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/2a291e17-3f7b-4382-adb0-79f624ad4ee5)
